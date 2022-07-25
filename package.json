@@ -1,0 +1,25 @@
+{
+  "name": "practicalweek2",
+  "version": "1.0.0",
+  "description": "Week Two Practical",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abatool-abatool/PracticalWeek2.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Amna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abatool-abatool/PracticalWeek2/issues"
+  },
+  "homepage": "https://github.com/abatool-abatool/PracticalWeek2#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
