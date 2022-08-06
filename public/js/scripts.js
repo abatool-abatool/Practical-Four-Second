@@ -30,6 +30,8 @@ const addCards = (items) => {
     });
 }
 
+
+
 $(document).ready(function(){
     $('.materialboxed').materialbox();
     $('#clickMeButton').click(()=>{
