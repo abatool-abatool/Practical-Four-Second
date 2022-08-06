@@ -1,14 +1,14 @@
 {
-  "name": "practicalweek3",
+  "name": "practicalweek4",
   "version": "1.0.0",
-  "description": "Week 3 Practical",
+  "description": "Week 4 Practical",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abatool-abatool/Prac-Three.git"
+    "url": "git+https://github.com/abatool-abatool/Practical-Four.git"
   },
   "keywords": [
     "express"
@@ -16,9 +16,9 @@
   "author": "Amna",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abatool-abatool/Prac-Three/issues"
+    "url": "https://github.com/abatool-abatool/Practical-Four/issues"
   },
-  "homepage": "https://github.com/abatool-abatool/Prac-Three#readme",
+  "homepage": "https://github.com/abatool-abatool/Practical-Four#readme",
   "dependencies": {
     "express": "^4.18.1"
   }
