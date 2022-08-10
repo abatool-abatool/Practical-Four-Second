@@ -1,3 +1,11 @@
+const getProjects = () => {
+    $.get('/api/projects',(response) => {
+        if(response.statusCode==200){
+            addCards(response.data);
+        }
+    })
+}
+
 const cardList = [
     {
         title: "Kitten 2",
@@ -30,12 +38,12 @@ const addCards = (items) => {
     });
 }
 
-
-
 $(document).ready(function(){
     $('.materialboxed').materialbox();
     $('#clickMeButton').click(()=>{
         clickMe();
     })
-    addCards(cardList);
+    //addCards(cardList);
+    getProjects();
+    $('.modal').modal();
   });
