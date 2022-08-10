@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abatool-abatool/Practical-Four.git"
+    "url": "git+https://github.com/abatool-abatool/Practical-Four-Second.git"
   },
   "keywords": [
     "express"
@@ -16,9 +16,9 @@
   "author": "Amna",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abatool-abatool/Practical-Four/issues"
+    "url": "https://github.com/abatool-abatool/Practical-Four-Second/issues"
   },
-  "homepage": "https://github.com/abatool-abatool/Practical-Four#readme",
+  "homepage": "https://github.com/abatool-abatool/Practical-Four-Second#readme",
   "dependencies": {
     "express": "^4.18.1"
   }
